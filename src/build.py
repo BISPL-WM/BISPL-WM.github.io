@@ -15,7 +15,7 @@ open(f"{R}/index.html", "w").write(f"""<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta property="og:title" content="BISPL-WM Projects">
-<meta property="og:description" content="Project pages of BISPL-WM: GALILEO and Mind the Band.">
+<meta property="og:description" content="Project pages of BISPL-WM: GALILEO, Mind the Band, CRePE and DPP.">
 <meta property="og:url" content="https://bispl-wm.github.io/">
 <link rel="icon" href="{ICON}">
 {head}</head>
